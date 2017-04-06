@@ -1,0 +1,1 @@
+file 1 in the git_project_3
